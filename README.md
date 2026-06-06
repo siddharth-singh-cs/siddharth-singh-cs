@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm Siddharth Singh
 
-<!--
-**siddharth-singh-cs/siddharth-singh-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Second-Year Computer Science Student
 
-Here are some ideas to get you started:
+💻 Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Python
+* HTML, CSS & JavaScript
+* Git & GitHub
+* Data Structures & Algorithms
+* AI Tools
+
+🚀 Featured Projects
+
+### 🌤️ Weatherly
+
+A modern weather forecasting web app with:
+
+* Real-time weather data
+* 5-day forecasts
+* Dark mode
+* Geolocation support
+
+### ⏱️ Deep Work Timer
+
+A productivity timer designed for focused work sessions.
+
+### 🔐 Password Generator
+
+A secure password generator with customizable options.
+
+🎯 Goals for 2026
+
+* Build 10 portfolio projects
+* Master JavaScript
+* Learn DSA
+* Land my first internship
+
+📫 Connect With Me
+
+* GitHub: https://github.com/siddharth-singh-cs
+
+⭐ Thanks for visiting my profile!
