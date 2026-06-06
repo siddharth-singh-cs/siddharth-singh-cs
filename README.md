@@ -36,6 +36,16 @@ A secure password generator with customizable options.
 * Learn DSA
 * Land my first internship
 
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=siddharth-singh-cs&show_icons=true&theme=tokyonight)
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth-singh-cs&layout=compact&theme=tokyonight)
+
+
 📫 Connect With Me
 
 * GitHub: https://github.com/siddharth-singh-cs
