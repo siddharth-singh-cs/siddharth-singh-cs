@@ -45,6 +45,11 @@ A secure password generator with customizable options.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth-singh-cs&layout=compact&theme=tokyonight)
 
+## Open Source Contributions
+
+- First Contributions: PR #118760 (Merged)
+  https://github.com/firstcontributions/first-contributions/pull/118760
+
 
 📫 Connect With Me
 
